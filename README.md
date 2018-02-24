@@ -9,6 +9,6 @@ Ensuite il faut éditer le script pour y insérer vos identifiants
 
 ## Utilisation
 ```
-python(3) EDMoyennes.pu
+python(3) EDMoyennes.py
 ```
 
